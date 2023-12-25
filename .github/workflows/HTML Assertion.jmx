@@ -1,0 +1,109 @@
+line 6 column 1 - Warning: <meta> lacks "content" attribute
+line 10 column 1 - Warning: unknown attribute "property"
+line 11 column 1 - Warning: unknown attribute "property"
+line 12 column 1 - Warning: unknown attribute "property"
+line 13 column 1 - Warning: unknown attribute "property"
+line 14 column 1 - Warning: unknown attribute "property"
+line 16 column 1 - Warning: unknown attribute "sizes"
+line 17 column 1 - Warning: unknown attribute "sizes"
+line 18 column 1 - Warning: unknown attribute "sizes"
+line 23 column 1 - Warning: unknown attribute "crossorigin"
+line 23 column 1 - Warning: unknown attribute "as"
+line 24 column 1 - Warning: unknown attribute "crossorigin"
+line 24 column 1 - Warning: unknown attribute "as"
+line 25 column 1 - Warning: unknown attribute "crossorigin"
+line 25 column 1 - Warning: unknown attribute "as"
+line 26 column 1 - Warning: unknown attribute "crossorigin"
+line 26 column 1 - Warning: unknown attribute "as"
+line 27 column 1 - Warning: unknown attribute "crossorigin"
+line 27 column 1 - Warning: unknown attribute "as"
+line 28 column 1 - Warning: unknown attribute "crossorigin"
+line 28 column 1 - Warning: unknown attribute "as"
+line 29 column 1 - Warning: unknown attribute "crossorigin"
+line 29 column 1 - Warning: unknown attribute "as"
+line 30 column 1 - Warning: <link> lacks "type" attribute
+line 31 column 1 - Warning: <link> lacks "type" attribute
+line 34 column 1 - Warning: <script> lacks "type" attribute
+line 56 column 1 - Warning: <script> lacks "type" attribute
+line 57 column 1 - Warning: unknown attribute "data-cfasync"
+line 69 column 1 - Warning: unknown attribute "data-cfasync"
+line 138 column 1 - Warning: unknown attribute "data-cfasync"
+line 138 column 1 - Warning: unknown attribute "async"
+line 139 column 1 - Warning: <script> lacks "type" attribute
+line 140 column 1 - Warning: <script> lacks "type" attribute
+line 141 column 1 - Warning: <script> lacks "type" attribute
+line 144 column 1 - Warning: <style> lacks "type" attribute
+line 889 column 5 - Warning: unknown attribute "aria-label"
+line 898 column 8 - Warning: unknown attribute "aria-hidden"
+line 902 column 4 - Warning: trimming empty <i>
+line 905 column 6 - Error: <nav> is not recognized!
+line 905 column 6 - Warning: discarding unexpected <nav>
+line 906 column 8 - Warning: unknown attribute "role"
+line 915 column 10 - Warning: unknown attribute "aria-hidden"
+line 919 column 6 - Warning: trimming empty <i>
+line 920 column 10 - Warning: unknown attribute "aria-hidden"
+line 924 column 6 - Warning: trimming empty <i>
+line 927 column 8 - Warning: unknown attribute "role"
+line 936 column 10 - Warning: unknown attribute "aria-hidden"
+line 940 column 6 - Warning: trimming empty <i>
+line 941 column 10 - Warning: unknown attribute "aria-hidden"
+line 945 column 6 - Warning: trimming empty <i>
+line 948 column 8 - Warning: unknown attribute "role"
+line 957 column 10 - Warning: unknown attribute "aria-hidden"
+line 961 column 6 - Warning: trimming empty <i>
+line 962 column 10 - Warning: unknown attribute "aria-hidden"
+line 966 column 6 - Warning: trimming empty <i>
+line 969 column 8 - Warning: unknown attribute "role"
+line 978 column 10 - Warning: unknown attribute "aria-hidden"
+line 982 column 6 - Warning: trimming empty <i>
+line 983 column 10 - Warning: unknown attribute "aria-hidden"
+line 987 column 6 - Warning: trimming empty <i>
+line 989 column 5 - Warning: discarding unexpected </nav>
+line 991 column 6 - Warning: unknown attribute "role"
+line 991 column 6 - Warning: unknown attribute "aria-label"
+line 1,000 column 8 - Warning: unknown attribute "aria-hidden"
+line 1,004 column 4 - Warning: trimming empty <i>
+line 1,005 column 8 - Warning: unknown attribute "aria-hidden"
+line 1,009 column 4 - Warning: trimming empty <i>
+line 1,024 column 10 - Warning: unknown attribute "oninput"
+line 1,024 column 10 - Warning: unknown attribute "aria-label"
+line 1,024 column 10 - Warning: unknown attribute "autocomplete"
+line 1,024 column 10 - Warning: unknown attribute "placeholder"
+line 1,036 column 10 - Warning: unknown attribute "aria-label"
+line 1,036 column 10 - Warning: unknown attribute "role"
+line 1,043 column 11 - Error: <svg> is not recognized!
+line 1,043 column 11 - Warning: discarding unexpected <svg>
+line 1,049 column 13 - Error: <path> is not recognized!
+line 1,049 column 13 - Warning: discarding unexpected <path>
+line 1,052 column 10 - Warning: discarding unexpected </path>
+line 1,053 column 7 - Warning: discarding unexpected </svg>
+line 1,058 column 9 - Warning: unknown attribute "role"
+line 1,058 column 9 - Warning: unknown attribute "aria-label"
+line 1,065 column 11 - Error: <svg> is not recognized!
+line 1,065 column 11 - Warning: discarding unexpected <svg>
+line 1,070 column 13 - Error: <path> is not recognized!
+line 1,070 column 13 - Warning: discarding unexpected <path>
+line 1,073 column 10 - Warning: discarding unexpected </path>
+line 1,074 column 7 - Warning: discarding unexpected </svg>
+line 1,077 column 9 - Warning: unknown attribute "aria-label"
+line 1,077 column 9 - Warning: unknown attribute "role"
+line 1,093 column 7 - Warning: unknown attribute "aria-label"
+line 1,093 column 7 - Warning: unknown attribute "role"
+line 1,108 column 7 - Warning: unknown attribute "aria-label"
+line 1,118 column 8 - Warning: unknown attribute "aria-label"
+line 1,130 column 8 - Warning: unknown attribute "aria-label"
+line 1,137 column 10 - Error: <svg> is not recognized!
+line 1,137 column 10 - Warning: discarding unexpected <svg>
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+940 warnings, 98 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+The alt attribute should be used to give a short description
+of an image; longer descriptions should be given with the
+longdesc attribute which takes a URL linked to the description.
+These measures are needed for people using non-graphical browsers.
+For further advice on how to make your pages accessible
+see "http://www.w3.org/WAI/GL". You may also want to try
+"http://www.cast.org/bobby/" which is a free Web-based
+service for checking URLs for accessibility.
