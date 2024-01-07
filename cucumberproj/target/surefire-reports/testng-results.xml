@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-07T19:46:19 IST" name="stepdefinitions.BaseTest" finished-at="2024-01-07T19:46:31 IST" duration-ms="12390">
+    <groups>
+    </groups>
+    <test started-at="2024-01-07T19:46:19 IST" name="Command line test" finished-at="2024-01-07T19:46:31 IST" duration-ms="12390">
+      <class name="stepdefinitions.BaseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:stepdefinitions.BaseTest@6af93788]" started-at="2024-01-07T19:46:19 IST" name="setUp" finished-at="2024-01-07T19:46:25 IST" duration-ms="6397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testVerifyTitle()[pri:0, instance:stepdefinitions.BaseTest@6af93788]" started-at="2024-01-07T19:46:26 IST" name="testVerifyTitle" finished-at="2024-01-07T19:46:29 IST" duration-ms="3956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyTitle -->
+        <test-method signature="testABTesting()[pri:0, instance:stepdefinitions.BaseTest@6af93788]" started-at="2024-01-07T19:46:30 IST" name="testABTesting" finished-at="2024-01-07T19:46:30 IST" depends-on-methods="stepdefinitions.BaseTest.testVerifyTitle" duration-ms="586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testABTesting -->
+        <test-method signature="testDropdownSelection()[pri:0, instance:stepdefinitions.BaseTest@6af93788]" started-at="2024-01-07T19:46:30 IST" name="testDropdownSelection" finished-at="2024-01-07T19:46:31 IST" depends-on-methods="stepdefinitions.BaseTest.testABTesting" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdownSelection -->
+        <test-method signature="testFramesPage()[pri:0, instance:stepdefinitions.BaseTest@6af93788]" started-at="2024-01-07T19:46:31 IST" name="testFramesPage" finished-at="2024-01-07T19:46:31 IST" depends-on-methods="stepdefinitions.BaseTest.testDropdownSelection" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFramesPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefinitions.BaseTest@6af93788]" started-at="2024-01-07T19:46:31 IST" name="tearDown" finished-at="2024-01-07T19:46:31 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- stepdefinitions.BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- stepdefinitions.BaseTest -->
+</testng-results>
