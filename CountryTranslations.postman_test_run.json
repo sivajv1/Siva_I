@@ -1,0 +1,48 @@
+{
+	"id": "61ccaad1-3d6e-4aa1-beb7-b949e057e4f3",
+	"name": "CountryTranslations",
+	"timestamp": "2024-01-08T09:49:47.497Z",
+	"collection_id": "31979583-9111bc73-dc20-4d6e-be0e-92d1400d3b8f",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-01-08T09:49:45.816Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "bad1b35b-cf52-4cb6-9c02-66629f57945f",
+			"name": "New Request",
+			"url": "https://restcountries.com/v3.1/translation/Saksamaa",
+			"time": 231,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				698,
+				229,
+				231
+			],
+			"allTests": [
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 3,
+	"totalTime": 1158,
+	"collection": {
+		"requests": [
+			{
+				"id": "bad1b35b-cf52-4cb6-9c02-66629f57945f",
+				"method": "GET"
+			}
+		]
+	}
+}
